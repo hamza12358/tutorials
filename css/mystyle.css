@@ -1,0 +1,240 @@
+header{
+    background:  #000000 url(file:///C:/Users/Sadaf/Desktop/ELDORADOCOUNTRY/images/header-bg2.jpg) 100% 100% no-repeat;;
+}
+.logo{
+    margin: 21px 0 0 0;
+}
+
+h4.misssion{
+    color: white;
+    font-size: 14px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    padding-left: 7px;
+    padding-right: 7px;
+    background: radial-gradient(circle,#ec0000 , #800000);
+    width: 719px;
+    float: right;
+}
+.col-sm-3 li {
+    list-style-type: none;
+    color: #f6b600;
+    font-size: 15px;
+}
+.col-sm-7{
+    text-align: center;
+}
+.col-sm-7 h1{
+    font-size: 55px;
+    color: white;
+    margin-top: 49px;
+
+}
+.col-sm-7 h2{
+    font-size: 37px;
+    color: #f6b600;
+
+}
+.col-sm-3 input{
+    max-width: 100%;
+    height: auto;
+}
+.my_menu {
+    background-color:#ec0000 ;
+    position: relative;
+}
+.my_menu .navbar-default{
+    background: none;
+    border: none;
+}
+nav li a{
+    font-size: 18px;
+    color: white;
+}
+.my_menu .navbar-nav .active a,.my_menu .navbar-nav .active a:hover{
+    background-color:#262626;
+    color: white;
+}
+.my_menu .navbar-nav li a:hover{
+    background-color:#262626;
+    color: white;
+}
+.navbar-nav  li{
+    width:161px;
+    text-align: center;
+    border-right: solid;
+    border-left: solid;
+    border-width: 01px;
+    background-color:#ec0000 ;
+}
+.my_menu a{
+    color: #fff!important;
+}
+carousel-indicators{
+
+}
+.carousel{
+    position: relative;
+    margin-top: -21px;
+}
+.scetion1{
+    background: radial-gradient(circle,#ec0000 , #800000);
+    position: relative;
+    padding: 22px 0 46px 0;
+}
+.thumbnail{
+    margin-left: 43px;
+    width:292px;
+}
+.thumbnail h3{
+    color: #f6b600;
+    text-align: center;
+}
+.thumbnail{
+    background-color:#262626 ;
+}
+.thumbnail p{
+    color: #fff;
+    text-align: center;
+    width: 200px;
+    margin: 0 0 0 37px;
+}
+
+.thumbnail{
+    border-color:#262626;
+    border-bottom-left-radius: 42px;
+    border-bottom-right-radius:42px;
+    border-top-left-radius: 42px;
+    border-top-right-radius:42px;
+    height: 241px;
+    margin: 18px 0 0 36px;
+
+}
+
+.thumbnail input{
+    width: 90px;
+    border-bottom-style: solid;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    margin-top: 6px;
+    border-color: white;
+    position: absolute;
+    margin-left: 104px;
+    background-color: #800000;
+    color: white;
+    padding: 5px 2.5px;
+
+}
+
+.col-sm-3 input .button1{
+    margin-top: 50px;
+
+}
+.input4{
+    margin-top:19px;
+}
+.input3{
+    margin-top:22px;
+}
+.input2{
+    margin-top:48px;
+}
+
+.section2{
+    background: #000000 url(file:///C:/Users/Sadaf/Desktop/ELDORADOCOUNTRY/images/black-bg3.jpg) 100% 100% no-repeat;
+    position: relative;
+    color: #fff;
+}
+.section2 .para1{
+    margin: 33px 0 0 36px;
+    font-size: 23px;
+    width: 633px;
+}
+.section2 img{
+    float: left;
+}
+.para2{
+    margin: 229px 0 0 0;
+    font-size: 23px;
+}
+.col-sm-4 img{
+    width: 337px;
+    margin: 27px 0 0 -1px;
+    height: 638px;
+}
+
+
+.col-sm-8 input{
+    width: 137px;
+    font-size: 16px;
+    border-bottom-style: solid;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    margin-top: -69px;
+    border-color: white;
+    position: absolute;
+    margin-left: -155px;
+    background-color: #800000;
+    color: white;
+    padding: 5px 2.5px;
+}
+.title{
+    position: absolute;
+    width: 292px;
+    margin: 33px 0 0 26px;
+    text-align: center;
+}
+footer li{
+    float: left;
+    list-style: none;
+    font-size: 13px;
+    width: 61px;
+}
+
+footer{
+    background: #000000 url(file:///C:/Users/Sadaf/Desktop/ELDORADOCOUNTRY/images/footer.jpg) 100% 100% no-repeat;
+}
+footer ul{
+    margin-top: 10px;
+}
+.footer{
+    float: left;
+    width: auto;
+    margin-top: 134px;
+    margin-left: -303px;
+}
+.footer li{
+    float: left;
+    list-style: none;
+    width: 120px;
+    text-align: center;
+    font-size: 13px;
+    color: white;
+}
+
+@media (max-width: 640px) {
+    .section2 .para1{
+        width: 300px;
+    }
+}
+
+
+
+@media (max-width:732px) {
+    h4.misssion{
+        width:319px;
+    }
+}
+@media (max-width:860px){
+    header{
+        background: black;
+    }
+}@media (max-width: 1200px) {
+    .my_menu .pull-right {
+        float: none !important;
+    }
+}
